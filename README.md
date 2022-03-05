@@ -15,3 +15,4 @@ go install
 
 ```bash
 go test -json | go-test-runner
+```
