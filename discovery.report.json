@@ -1,0 +1,782 @@
+{
+    "testCases": [
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/-1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/-1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/-1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/-1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/-1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/-1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/-1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/-1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4",
+                "970a222b6396b13bb18609f6acb41648"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "ExampleThatCanStandTall",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "ExampleThatCanStandTall",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "ExampleThatCanStandTall",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "ExampleThatCanStandTall",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "ExampleThatCanStandTall",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "ExampleThatCanStandTall",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "ExampleThatCanStandTall",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "ExampleThatCanStandTall",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4",
+                "970a222b6396b13bb18609f6acb41648"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinBasic",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinBasic",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinBasic",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinBasic",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinBasic",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinBasic",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinBasic",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinBasic",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4",
+                "970a222b6396b13bb18609f6acb41648"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4",
+                "970a222b6396b13bb18609f6acb41648"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4",
+                "970a222b6396b13bb18609f6acb41648"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/1,0",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4",
+                "970a222b6396b13bb18609f6acb41648"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/2,-2",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/2,-2",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/2,-2",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/2,-2",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/2,-2",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/2,-2",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/2,-2",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/2,-2",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4",
+                "970a222b6396b13bb18609f6acb41648"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,-1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,-1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,-1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,-1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,-1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,-1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,-1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4"
+            ]
+        },
+        {
+            "id": "d41d8cd98f00b204e9800998ecf8427e",
+            "label": "TestIntMinTableDriven/0,-1",
+            "pkg": "github.com/sh3y/go-test-runner",
+            "test-suites": [
+                "88e783cf444f0b2d3c901565688b64d4",
+                "cb620c77387bd29af966ff7c0b24ccd0",
+                "e1ce16732c1d1134f9b966ecf6c5422c",
+                "d90a4467128fc93c46dddbb002c044e6",
+                "6116e64ae6814f7ea1dbdb72547c609d",
+                "764a066a047e7f5280cb29ff20e49a88",
+                "af75223a014e771b6b55a95094463af4",
+                "970a222b6396b13bb18609f6acb41648"
+            ]
+        }
+    ],
+    "testSuites": [
+        {
+            "id": "88e783cf444f0b2d3c901565688b64d4",
+            "label": "TestIntMinTableDriven/0,-1",
+            "pkg": "github.com/sh3y/go-test-runner"
+        },
+        {
+            "id": "cb620c77387bd29af966ff7c0b24ccd0",
+            "label": "TestIntMinTableDriven/-1,0",
+            "pkg": "github.com/sh3y/go-test-runner"
+        },
+        {
+            "id": "e1ce16732c1d1134f9b966ecf6c5422c",
+            "label": "ExampleThatCanStandTall",
+            "pkg": "github.com/sh3y/go-test-runner"
+        },
+        {
+            "id": "d90a4467128fc93c46dddbb002c044e6",
+            "label": "TestIntMinBasic",
+            "pkg": "github.com/sh3y/go-test-runner"
+        },
+        {
+            "id": "6116e64ae6814f7ea1dbdb72547c609d",
+            "label": "TestIntMinTableDriven",
+            "pkg": "github.com/sh3y/go-test-runner"
+        },
+        {
+            "id": "764a066a047e7f5280cb29ff20e49a88",
+            "label": "TestIntMinTableDriven/0,1",
+            "pkg": "github.com/sh3y/go-test-runner"
+        },
+        {
+            "id": "af75223a014e771b6b55a95094463af4",
+            "label": "TestIntMinTableDriven/1,0",
+            "pkg": "github.com/sh3y/go-test-runner"
+        },
+        {
+            "id": "970a222b6396b13bb18609f6acb41648",
+            "label": "TestIntMinTableDriven/2,-2",
+            "pkg": "github.com/sh3y/go-test-runner"
+        }
+    ]
+}
